@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"cach-system/util"
+	"github.com/evansnowly/cache-system/util"
 	"log"
 	"sync"
 	"time"
